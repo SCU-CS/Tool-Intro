@@ -51,19 +51,23 @@ Windows下的几种命令行
 打开仓库首页
 
 ![](image/GitHub-Pages.jpg)
+
 按图示点击
 
 ![](image/GitHub-Pages-Source.jpg)
+
 选择 `main` 或者 `master` 分支（主要看 `index.html` 在什么分支），然后 `Save` 就好了。
 
 保存之后，会显示网页链接。
 ![](image/GitHub-Pages-Link.jpg)
+
 点击即可查看。
 #### Gitee
 
 打开仓库首页
 
 ![](image/Gitee-Pages.png)
+
 按照图示点击就好
 
 > 不过最近在 **绿色网络环境改造** 不知道什么时候结束 -- 2021.7.15
