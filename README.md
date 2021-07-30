@@ -7,3 +7,5 @@
 - [Linux 基础](https://101.lug.ustc.edu.cn/) (强推)
   - 内容丰富
   - 与时俱进
+- [Java到Kotlin的入门指导](https://hughclub.github.io/java-kotlin-guide-chinese/)
+- [Git和GitHub的简易教程](https://hughclub.github.io/simple-git-guide-chinese/)
