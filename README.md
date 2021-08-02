@@ -12,4 +12,4 @@
 - 迁移/切换的指导
   - [Java到Kotlin的入门指导](https://hughclub.github.io/java-kotlin-guide-chinese/)
 - 内容推荐
-  - 工具软件的推荐
+  - [工具软件的推荐](Tool-Software/index.md)
