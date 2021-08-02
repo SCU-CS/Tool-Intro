@@ -12,4 +12,6 @@
 - 迁移/切换的指导
   - [Java到Kotlin的入门指导](https://hughclub.github.io/java-kotlin-guide-chinese/)
 - 内容推荐
-  - [工具软件的推荐](Tool-Software/index.md)
+  - [工具软件的推荐](Tool-Software/README.md)
+  - [科学上网原理和安全问题的一点笔记](GFW/README,md)
+
