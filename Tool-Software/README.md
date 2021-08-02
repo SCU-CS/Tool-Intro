@@ -20,6 +20,8 @@
 
 安全软件用Windows defender+火绒基本够了
 
+然后截图可以用 snipaste
+
 其他的暂时没想到了，可以看看下面的内容
 
 ## 编程工具
@@ -212,4 +214,5 @@ Ubuntu
 | 图片     | [HoneyView](https://cn.bandisoft.com/honeyview/)         | 快速的图片查看器                                             |
 | 安全工具 | [火绒]([火绒安全 (huorong.cn)](https://www.huorong.cn/)) | 谁能拒绝一个免费安静不扰民，还能防弹窗的完全软件             |
 | 共享软件 | [spacedesk](https://www.spacedesk.net/)                  | 让手机变成第二屏幕的软件                                     |
+| 截图软件 | snipaste（微软商店                                       | 用了就知道了                                                 |
 
