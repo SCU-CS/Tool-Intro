@@ -146,6 +146,12 @@ Ubuntu下 使用`xdg-open`使用默认软件打开文件，如`xdg-open demo.pdf
 3.   发送ping
 4.   command
 
+### [ManicTime](https://www.manictime.com/download/)
+
+一个全平台的软件使用计时工具
+
+官网下载可能有点问题 就放在了 **Release** 中
+
 ## 文件相关
 
 ### PDF
@@ -169,6 +175,7 @@ Android
 
 -   Acrobat（非免费
 -   福昕阅读器
+-   WPS
 
 ### epub
 
@@ -215,4 +222,21 @@ Ubuntu
 | 安全工具 | [火绒]([火绒安全 (huorong.cn)](https://www.huorong.cn/)) | 谁能拒绝一个免费安静不扰民，还能防弹窗的完全软件             |
 | 共享软件 | [spacedesk](https://www.spacedesk.net/)                  | 让手机变成第二屏幕的软件                                     |
 | 截图软件 | snipaste（微软商店                                       | 用了就知道了                                                 |
+| 思维导图 | [Xmind](https://soft.scu.edu.cn/product.html?id=243)     | 学校有免费的Xmind8pro~~感觉还不如Xmind2020~~                 |
 
+## 插件推荐
+
+### 编程相关
+
+-   [Wakatime](https://wakatime.com/) IDE的计时插件
+-   
+
+
+
+### 浏览器插件
+
+>   浏览器插件中心/商店下载或者 [GreasyFork](https://greasyfork.org/zh-CN)
+
+-   Tampermonkey 使用插件的好宝贝
+-   Video Speed Controller 浏览器倍速播放控制器
+-   
