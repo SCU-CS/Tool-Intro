@@ -146,11 +146,11 @@ Ubuntu下 使用`xdg-open`使用默认软件打开文件，如`xdg-open demo.pdf
 3.   发送ping
 4.   command
 
-### [ManicTime]([Download Windows Client - ManicTime](https://www.manictime.com/download/))
+### [ManicTime](https://www.manictime.com/download/)
 
 一个全平台的软件使用计时工具
 
-官网下载可能有点问题 就放在了 **Setups** 文件夹里
+官网下载可能有点问题 就放在了 **Release** 中
 
 ## 文件相关
 
