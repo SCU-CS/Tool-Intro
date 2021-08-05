@@ -211,18 +211,18 @@ Ubuntu
 
 ### 一些Windows工具
 
-| 工具类型 | 软件名                                                   | 原因                                                         |
-| -------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| video    | [PotPlayer64](http://www.potplayercn.com/)               | 倍速等功能好得不行                                           |
-| zip      | [Bandizip](https://www.bandisoft.com/bandizip/)          | 比7zip好 不过有付费版本和广告                                |
-|          | [7-Zip](https://www.7-zip.org/)                          | 免费 好用                                                    |
+| 工具类型 | 软件名                                                   | 原因                                                                              |
+| -------- | -------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| video    | [PotPlayer64](http://www.potplayercn.com/)               | 倍速等功能好得不行                                                                |
+| zip      | [Bandizip](https://www.bandisoft.com/bandizip/)          | 比7zip好 不过有付费版本和广告                                                     |
+|          | [7-Zip](https://www.7-zip.org/)                          | 免费 好用                                                                         |
 | 搜索类   | [Wox](http://www.wox.one/)                               | 软件搜索（An effective launcher） ~~不过我用的时候 那个版本有CPU突发高占用的bug~~ |
-|          | [everything](https://www.voidtools.com/zh-cn/)           | 文件搜索神器                                                 |
-| 图片     | [HoneyView](https://cn.bandisoft.com/honeyview/)         | 快速的图片查看器                                             |
-| 安全工具 | [火绒]([火绒安全 (huorong.cn)](https://www.huorong.cn/)) | 谁能拒绝一个免费安静不扰民，还能防弹窗的完全软件             |
-| 共享软件 | [spacedesk](https://www.spacedesk.net/)                  | 让手机变成第二屏幕的软件                                     |
-| 截图软件 | snipaste（微软商店                                       | 用了就知道了                                                 |
-| 思维导图 | [Xmind](https://soft.scu.edu.cn/product.html?id=243)     | 学校有免费的Xmind8pro~~感觉还不如Xmind2020~~                 |
+|          | [everything](https://www.voidtools.com/zh-cn/)           | 文件搜索神器                                                                      |
+| 图片     | [HoneyView](https://cn.bandisoft.com/honeyview/)         | 快速的图片查看器                                                                  |
+| 安全工具 | [火绒]([火绒安全 (huorong.cn)](https://www.huorong.cn/)) | 谁能拒绝一个免费安静不扰民，还能防弹窗的完全软件                                  |
+| 共享软件 | [spacedesk](https://www.spacedesk.net/)                  | 让手机变成第二屏幕的软件                                                          |
+| 截图软件 | snipaste（微软商店                                       | 用了就知道了                                                                      |
+| 思维导图 | [Xmind](https://soft.scu.edu.cn/product.html?id=243)     | 学校有免费的Xmind8pro~~感觉还不如Xmind2020~~                                      |
 
 ## 插件推荐
 
