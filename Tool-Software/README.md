@@ -210,6 +210,7 @@ Ubuntu
 
 ### 一些Windows工具
 
+
 | 工具类型 | 软件名                                           | 原因                                                                                        |
 | -------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 | video    | [PotPlayer64](http://www.potplayercn.com/)       | 倍速等功能好得不行                                                                          |
@@ -222,6 +223,7 @@ Ubuntu
 | 共享软件 | [spacedesk](https://www.spacedesk.net/)          | 让手机变成第二屏幕的软件                                                                    |
 | 截图软件 | snipaste（微软商店                               | 用了就知道了                                                                                |
 | 思维导图 | [Xmind](https://www.xmind.cn/)                   | 学校有免费的[Xmind8Pro](https://soft.scu.edu.cn/product.html?id=243)~~感觉还不如Xmind2021~~ |
+
 
 ## 插件推荐
 
