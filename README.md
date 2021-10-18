@@ -12,8 +12,8 @@
   - [Git和GitHub的简易教程](https://hughclub.github.io/simple-git-guide-chinese/)
   - Python工具选
     - 环境 [Anaconda](https://zhuanlan.zhihu.com/p/347990651)
-    - Jupyter Lab/Notebook 方便的交互式开发环境
-    - Pycharm JB之选 补全和提示很友好
+    - Jupyter Lab/Notebook 方便的交互式开发环境(安装了Anaconda后自带)
+    - Pycharm JB之选 补全和提示很友好(配合 Anaconda食用更佳)
 - 迁移/切换的指导
   - [Java到Kotlin的入门指导](https://hughclub.github.io/java-kotlin-guide-chinese/)
 - 内容推荐
