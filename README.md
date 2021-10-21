@@ -19,4 +19,5 @@
 - 内容推荐
   - 小白必知必会 [工具软件的推荐](Tool-Software/README.md)
   - [科学上网原理和安全问题的一点笔记](GFW/README.md)
+  - [好奇Windows热键占用？](https://www.seekhue.com/posts/2021/view-all-shortcuts-in-windows/)
 
