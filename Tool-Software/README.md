@@ -23,6 +23,8 @@
 
 其他的暂时没想到了，可以看看下面的内容
 
+> Windows也可以使用命令行安装软件 想折腾的可以看看[这里](https://github.com/HUGHNew/Site/blob/master/blogs/Windows-Pkg-Man.md)
+
 ## 编程工具
 
 > Windows 下初学 C/C++ 建议 先点击[这里](https://scu-cs.github.io/C-Cpp/#/)
@@ -96,15 +98,15 @@ iOS上知乎找吧
 
 Windows
 
--   VirtualBox/VMWare（本来不免费的东西，现在都免费了）
+-   VirtualBox/VMWare（VMWare有全套的服务 激活码网上随便找）
 -   sandbox
 -   win11的话应该不需要手机模拟器吧？
--   wsl 点击[这里]([Tool-Intro/README.md at main · SCU-CS/Tool-Intro (github.com)](https://github.com/SCU-CS/Tool-Intro/blob/main/WSL-install/README.md))看安装指南
+-   wsl 点击[这里](https://github.com/SCU-CS/Tool-Intro/blob/main/WSL-install/README.md)看安装指南
 -   mobaXterm
 
 Ubuntu
 
--   VirtualBox
+-   VirtualBox/VMWare(需要激活)
 -   Wine
 
 macOS
@@ -132,7 +134,7 @@ Ubuntu下 使用`xdg-open`使用默认软件打开文件，如`xdg-open demo.pdf
 
 都可以 `apt` 装
 
-### **[KDE connect](https://kdeconnect.kde.org/)**
+#### **[KDE connect](https://kdeconnect.kde.org/)**
 
 >   A project that enables all your devices to communicate with each other.
 >
@@ -140,16 +142,30 @@ Ubuntu下 使用`xdg-open`使用默认软件打开文件，如`xdg-open demo.pdf
 
 包括不限于
 
-1.   剪切板共享
+1.   剪切板共享(PC传手机很容易)
 2.   文件贡献
 3.   发送ping
 4.   command
 
-### [ManicTime](https://www.manictime.com/download/)
+#### [ManicTime](https://www.manictime.com/download/)
 
 一个全平台的软件使用计时工具
 
 官网下载可能有点问题 就放在了 **Release** 中
+
+
+
+#### [Motrix](https://motrix.app/zh-CN/)
+
+一款全能的下载工具支持下载 HTTP、FTP、BT、磁力链接等资源
+
+> **可以接盘迅雷下载**
+>
+> 但不支持**ed2k**(电驴)
+
+桌面全平台通用
+
+免费开源
 
 ## 文件相关
 
@@ -166,13 +182,13 @@ Windows
 
 Ubuntu
 
--   自带一个
+-   自带(一般你用的桌面系统都会自带一个 够用了)
 -   Calibre
 -   ...
 
 Android
 
--   Acrobat（非免费
+-   Acrobat（能免费用
 -   福昕阅读器
 -   WPS
 
@@ -189,7 +205,7 @@ Windows
 -   calibre
 -   bazaar（不太行
 
-### 类型转换
+### 格式转换
 
 >   主要是 PDF 相关的
 
@@ -240,4 +256,4 @@ Ubuntu
 
 -   Tampermonkey 使用插件的好宝贝
 -   Video Speed Controller 浏览器倍速播放控制器
--   
+-   Global Speed 替换楼上的好工具
